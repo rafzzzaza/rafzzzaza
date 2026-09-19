@@ -42,19 +42,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafzzzaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafzzzaza&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafzzzaza&theme=tokyonight&hide_border=true" width="97%" />
-</p>
-
----
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=rafzzzaza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ### 🎮 Contribution Graph Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/pacman-output/github-contribution-grid-snake.svg" alt="Pacman Contribution Graph" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
