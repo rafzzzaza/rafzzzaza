@@ -1,11 +1,40 @@
-# Hey 👋 What's Up?
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%90%8B+I'm+Rafz!;Web+%26+Backend+Developer;Hardware+%26+Modding+Enthusiast;Gamer+%26+Content+Creator" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Web+%26+Backend+Developer;Hardware+%26+Modding+Enthusiast;Gamer+%26+Content+Creator" alt="Typing SVG" />
+  <a href="https://discord.com/users/rafzzzaza" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-rafzzzaza-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://kidou.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-kidou.my.id-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://saweria.co/rafaaza" target="_blank">
+    <img src="https://img.shields.io/badge/SUPPORT-Saweria-FAAE1D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafzzzaza&color=00b4d8&style=flat-square&label=visitors" alt="visitors" />
 </p>
 
 ---
 
+### 👨‍💻 `about_me.sh`
+
+```bash
+#!/bin/bash
+
+user="Rafz"
+role="Web Developer & Modding Enthusiast"
+location="Indonesia 🇮🇩"
+
+skills=( "JavaScript" "Node.js" "HTML5/CSS3" "Git" )
+hobbies=( "PC Building" "Game Modding" "Video Editing" "Gaming" )
+
+echo "🚀 Welcome to my profile! I love building cool web tools & tinkering with hardware."
+```
+---
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -20,33 +49,13 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.com/users/rafzzzaza" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-rafzzzaza-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://kidou.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-kidou.my.id-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://saweria.co" target="_blank">
-    <img src="https://img.shields.io/badge/SUPPORT-Saweria-FAAE1D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafzzzaza&color=00b4d8&style=flat-square&label=visitors" alt="visitors" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=rafzzzaza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/rafzzzaza/rafzzzaza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafzzzaza&theme=tokyonight&hide_border=true" width="97%" />
+</p>
 
 ### 🎮 Contribution Graph Activity
 
