@@ -13,11 +13,6 @@
     <img src="https://img.shields.io/badge/SUPPORT-Saweria-FAAE1D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafzzzaza&color=00b4d8&style=flat-square&label=visitors" alt="visitors" />
-</p>
-
 ---
 
 ### 👨‍💻 `about_me.sh`
