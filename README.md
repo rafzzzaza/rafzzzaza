@@ -21,6 +21,7 @@
 #!/bin/bash
 
 user="Rafz"
+real_name="Rafa Dhiyayi haq"
 role="Web Developer & Modding Enthusiast"
 location="Indonesia 🇮🇩"
 
